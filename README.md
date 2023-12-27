@@ -11,7 +11,9 @@ Proyectos que combinen conocimientos en Marketing Digital, especialmente SEO, co
 Estoy interesado en conectar con profesionales y entusiastas del Desarrollo Web y Marketing Digital, sería genial.
 
 ### 🌱 I’m currently learning:
-Me encuentro inmerso en el Bootcamp de Desarrollo Full Stack JavaScript, puedes seguir mi avance en (https://dieherram.github.io/portafolio.html). También estoy siguiendo el cohort 2 de #100Devs para continuar fortaleciendo mis habilidades. Además, estoy ampliando mi vocabulario en inglés con el curso A2 English for Developers de freeCodeCamp.
+- Me encuentro cursando el Bootcamp de Desarrollo Full Stack JavaScript en Desafío Latam.
+- Como parte del programa Free Software Engineering Bootcamp sigo el cohort 2 de #100Devs.
+- Estoy ampliando mi vocabulario en inglés con el curso A2 English for Developers de freeCodeCamp.
 
 ### ⚡ Fun fact:
 Soy un apasionado de los videojuegos retro. En mi tiempo libre, genero contenido relacionado en TikTok, donde me puedes encontrar como "radicalgeekcl".
