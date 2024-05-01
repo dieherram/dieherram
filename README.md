@@ -1,26 +1,26 @@
-# 💫 About Me:
+# 💫 Acerca De Mí:
 ¡Hola! 👋 Soy Diego, un apasionado por el mundo digital, el desarrollo web y el marketing digital.
 
-### 🔭 I’m currently working on:
+### 🔭 Actualmente Estoy Trabajando En:
 Ayudo a empresas a mejorar o iniciar su presencia en el mundo digital. Mi enfoque está en crear soluciones que impulsen su éxito en línea.
 
-### 👯 I’m looking to collaborate on:
+### 👯 Estoy Buscando Colaborar En:
 Proyectos que combinen conocimientos en Marketing Digital, especialmente SEO, con Desarrollo Web Front End.
 
-### 🤝 I’m looking for help with:
+### 🤝 Estoy Buscando Ayuda Con:
 Estoy interesado en conectar con profesionales y entusiastas del Desarrollo Web y Marketing Digital, sería genial.
 
-### 🌱 I’m currently learning:
+### 🌱 Actualmente Estoy Aprendiendo:
 - Me encuentro cursando el Bootcamp de Desarrollo Full Stack JavaScript en Desafío Latam.
 - Como parte del programa Free Software Engineering Bootcamp sigo el cohort 2 de #100Devs.
 - Estoy ampliando mi vocabulario en inglés con el curso A2 English for Developers de freeCodeCamp.
 
-### ⚡ Fun fact:
-Soy un apasionado de los videojuegos retro. En mi tiempo libre, genero contenido relacionado en TikTok, donde me puedes encontrar como "radicalgeekcl".
+### ⚡ Datos Curiosos:
+Soy un apasionado de los videojuegos retro. En mi tiempo libre, genero contenido relacionado en TikTok, donde me puedes encontrar como [radicalgeekcl](https://www.tiktok.com/@radicalgeekcl).
 
 ¡Gracias por visitar mi repositorio! 😊
 
-## 🌐 Socials:
+## 🌐 Sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dieherram) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dieherram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-hernandez-ramos) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@radicalgeekcl) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/radicalgeekcl) 
 
 # 💻 Tech Stack:
@@ -29,8 +29,5 @@ Soy un apasionado de los videojuegos retro. En mi tiempo libre, genero contenido
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dieherram&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dieherram&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Cita Aleatoria de Dev:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
