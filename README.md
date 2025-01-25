@@ -16,7 +16,7 @@ Estoy interesado en conectar con profesionales y entusiastas del Desarrollo Web 
 - Estoy ampliando mi vocabulario en inglés con el curso A2 English for Developers de freeCodeCamp.
 
 ### ⚡ Datos Curiosos:
-Soy un apasionado de los videojuegos retro. En mi tiempo libre, genero contenido relacionado en TikTok, donde me puedes encontrar como [radicalgeekcl](https://www.tiktok.com/@radicalgeekcl).
+Soy un apasionado de los videojuegos retro. En mi tiempo libre, genero contenido relacionado en TikTok, donde me puedes encontrar como [radicalkidcl](https://www.tiktok.com/@radicalkidcl).
 
 ¡Gracias por visitar mi repositorio! 😊
 
